@@ -6,6 +6,7 @@
 # Follow steps below to install using Termux:
 * ``apt update -y && apt upgrade -y``
 * ``pkg install git``
+* `sudo apt-get install jq`
 * ``git clone https://github.com/ST0096/Geolocate.git``
 * ``cd Geolocate``
 * ``bash locate.sh``
